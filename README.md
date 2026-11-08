@@ -70,7 +70,7 @@ on the **same** 114-instance test set. No retraining was performed during evalua
 
 ## Live Streamlit App Link
 
-*(To be updated after deployment)*
+[https://ml-assignment-2-aiml-geipv4zusa8tjettvymqux.streamlit.app](https://ml-assignment-2-aiml-geipv4zusa8tjettvymqux.streamlit.app)
 
 ---
 
